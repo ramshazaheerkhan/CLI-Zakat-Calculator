@@ -1,0 +1,20 @@
+{
+  "name": "ram72-cli_zakat_calculator",
+  "version": "1.0.0",
+  "description": "I am designing a project for  calculating zakat",
+  "main": "index.js",
+  "type": "module",
+  "bin" : "zakat.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramsha Zaheer",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
